@@ -19,7 +19,7 @@ int main() {
         questions[j] = temp;
     }
 
-    printf("===== Jay's ONLINE QUIZ =====\n");
+    printf("===== Jay's and psk ONLINE QUIZ =====\n");
     printf("Rules:\n");
     printf("+1 for correct answer\n");
     printf("-1 for wrong answer\n");
